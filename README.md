@@ -11,8 +11,10 @@ The problem that TabInsight tries to solve is to track the tablet and app usage 
 
 The text focuses entirely on how  tabinsight can be used in the education sector. Fortunately, TabInsight is versatile and not restricted to this use case. Any Organization that wants usage analytics on their devices can leverage this solution in some way.
 
-## Demystifying TabIsnight
+## Demystifying TabInsight
 ### Building Blocks
 *  **Client App**
 *  **Server**
 *  **ELK Stack**
+### Under the hood
+
