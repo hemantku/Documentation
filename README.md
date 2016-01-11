@@ -16,5 +16,6 @@ The text focuses entirely on how  tabinsight can be used in the education sector
 *  **Client App**
 *  **Server**
 *  **ELK Stack**
+
 ### Under the hood
 
