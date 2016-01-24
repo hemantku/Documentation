@@ -14,6 +14,7 @@ The text focuses entirely on how  tabinsight can be used in the education sector
 ## Demystifying TabInsight
 ### Building Blocks
 *  **Client App**
+
 Client App runs on the target device. The responsibilites of this app include:
     * Runs a background service periodically to collect app usage information from device manager and stores this information in a light weight database (db) in the device
     * Detect change in network connection status. Once, the app confirms that the device is connected to a WIFI network it queries the local db and tries to send this to the server. This is done record by record. The moment a record is sent to the server and the server acknowledges the receipt of the same, this record is deleted from the local db.
