@@ -1,5 +1,5 @@
 # TabInsight
-#### Providing Analytical Insight in to Handheld Devices
+#### Providing analytical insight in to Handheld Devices
 
 
 ## Underlying Idea
