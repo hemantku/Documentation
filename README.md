@@ -31,7 +31,8 @@ The text focuses entirely on how  tabinsight can be used in the education sector
 
   The responsibilities of the Data Analysis module include:
     1. Ingests data from server
-    2. 
+    2. Publish processed data  to a data store
+    3. Provide dashboarding services based on data from the data store
 
 ### Under the hood
 
