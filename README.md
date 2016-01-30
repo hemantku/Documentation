@@ -33,7 +33,15 @@ The text focuses entirely on how  tabinsight can be used in the education sector
     1. Ingests data from server
     2. Publish processed data  to a data store
     3. Provide dashboarding services based on data from the data store
+    
 
 ### Under the hood
 ![alt text](../master/resources/tabinsight_architecture.png "Logo Title Text 1")
+
+### Constituent Project
+[TODO]
+
+### Contributing
+[TODO]
+
 
