@@ -29,5 +29,9 @@ The text focuses entirely on how  tabinsight can be used in the education sector
       
 *  **Data Analysis and Dashboarding**
 
+  The responsibilities of the Data Analysis module include:
+    1. Ingests data from server
+    2. 
+
 ### Under the hood
 
