@@ -16,10 +16,18 @@ The text focuses entirely on how  tabinsight can be used in the education sector
 *  **Client App**
 
 Client App runs on the target device. The responsibilites of this app include:
+
     * Runs a background service periodically to collect app usage information from device manager and stores this information in a light weight database (db) in the device
     * Detect change in network connection status. Once, the app confirms that the device is connected to a WIFI network it queries the local db and tries to send this to the server. This is done record by record. The moment a record is sent to the server and the server acknowledges the receipt of the same, this record is deleted from the local db.
+    
 *  **Server**
-*  **ELK Stack**
+
+The responsibilities of the server side components includes:
+
+      * Collect information payload from client devices
+      * Aggregate and publish data to the Data Analysis module
+      
+*  **Data Analysis and Dashboarding**
 
 ### Under the hood
 
