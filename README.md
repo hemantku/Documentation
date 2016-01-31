@@ -42,6 +42,10 @@ The text focuses entirely on how  tabinsight can be used in the education sector
 
 #### <a href="https://github.com/TabInsight/TabInsight-Android"  target="_blank">1. Client Android App</a>
 
+#### <a href="https://github.com/TabInsight/TabInsight-Server-Nodejs"  target="_blank">2. Nodejs Server App</a>
+
+#### <a href="https://github.com/TabInsight/TabInsight-Server/tree/master/elk_installers"  target="_blank">3. ELK Setup</a>
+
 ### Contributing
 [TODO]
 
