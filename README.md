@@ -38,8 +38,9 @@ The text focuses entirely on how  tabinsight can be used in the education sector
 ### Under the hood
 ![alt text](../master/resources/tabinsight_architecture.png "Logo Title Text 1")
 
-### Constituent Project
-[TODO]
+### Constituent Projects
+
+#### <a href="https://github.com/TabInsight/TabInsight-Android">1. Client Android App</a>
 
 ### Contributing
 [TODO]
