@@ -47,6 +47,15 @@ The text focuses entirely on how  tabinsight can be used in the education sector
 #### <a href="https://github.com/TabInsight/TabInsight-Server/tree/master/elk_installers"  target="_blank">3. ELK Setup</a>
 
 ### Contributing
-[TODO]
+You'll need to [sign up for a GitHub account](https://github.com/signup/free) if you do not already have one in order
+to contribute to the specification. 
+
+In addition to raising and discussing issues, you can contribute by:
+
+* [Reviewing open Pull Requests]()
+* [Suggesting solutions to issues]()
+* [Making a Pull Request to address an issue]()
+
+Click the links above to find out how to do each of these things. 
 
 
